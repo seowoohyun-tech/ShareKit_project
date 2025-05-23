@@ -1,1 +1,1 @@
-desciption: local login by student ID and passowrd
+desciption: local login by student ID and passowrd.
